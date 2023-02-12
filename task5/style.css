@@ -1,0 +1,28 @@
+.container{
+    background-color: black;
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    
+}
+
+.number{
+    text-align: center;
+    color: white;
+    letter-spacing: 2ch;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.box{
+    background-color: darkcyan;
+    width: 250px;
+    height: 10px;
+    margin: auto;
+}
+
+.number,.box{
+    margin-bottom: 1px;
+    
+}
+

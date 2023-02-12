@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+}

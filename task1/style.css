@@ -1,0 +1,80 @@
+.container{
+    width: 625px;
+    background-color: rgb(220, 217, 217);
+    height: 625px;
+    padding: 20px;
+    margin: auto;
+}
+.one{
+    float: left;
+    width: 190px;
+    height: 90px;
+    background-color: rgb(220, 0, 0);
+}
+.two{
+    float: left;
+    width: 415px;
+    height: 90px;
+    background-color: rgb(5, 27, 75);
+    margin-left: 20px;
+}
+.three{
+    width: 625px;
+    height: 120px;
+    background-color: rgb(154, 126, 16);
+    margin-top: 20px;
+    float: left;
+}
+.four,.five,.six{
+    width: 195px;
+    height: 100px;
+    background-color: rgb(30, 218, 39);
+    margin-top: 20px;
+    float: left;
+}
+.five{
+    background-color: rgb(131, 4, 126);
+    margin-left: 20px;
+}
+.six{
+    background-color: rgb(97, 28, 169);
+    margin-left: 20px;
+}
+.seven,.eight{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(202, 104, 9);
+    margin-top: 20px;
+    float: left;
+}
+.eight{
+    background-color: rgb(202, 202,9);
+    margin-left: 20px;
+}
+.nine,.ten,.elevan,.twelve{
+    width: 140px;
+    height: 50px;
+    background-color: rgb(14, 136, 14);
+    margin-top: 20px;
+    float: left;
+
+}
+.ten{
+    background-color: rgb(16, 155, 155);
+    margin-left: 20px;
+}
+.elevan{
+    background-color: rgb(98, 10, 10);
+    margin-left: 20px;
+}
+.twelve{
+    background-color: rgb(9, 15, 187);
+    margin-left: 20px;
+}
+.thirteen{
+    background-color: rgb(46, 2, 2);
+    width: 625px;
+    height: 25px;
+    float: left;
+    margin-top: 20px;
+}

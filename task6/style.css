@@ -1,0 +1,143 @@
+h1{
+    letter-spacing: 1ch;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 2%;
+    color: white;
+}
+.container{
+    background-image: url(https://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_960_720.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.label{
+    width: 200px;
+    display: inline-block;
+
+}
+#main{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 82%;
+    height: 370px;
+    padding: 2%;
+    margin: auto;
+    background-color: rgba(9, 74, 104, 0.4);
+
+}
+
+#main, .label{
+    font-family: serif;
+    letter-spacing: 1px;
+    
+    
+}
+footer{
+    display: flex;
+    justify-content: center;
+    top: 92%;
+    left: 25%;
+    color: black;
+}
+button{
+    margin: 1%;
+    width: 150px;
+    height: 40px;
+    padding: 7px;
+    font-family: serif;
+    border: 0ch;    
+}
+.place{
+    background-color: rgb(17, 90, 136);
+    color: aliceblue;
+    margin-left: 20%;
+}
+.res{
+    background-color: rgb(158, 136, 14);
+    color: aliceblue;
+}
+input{
+    margin: 1%;
+    background: transparent;
+    color: aliceblue;
+    border-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    padding: 2px;
+    
+    
+    
+    
+}
+input::placeholder{
+    padding-left: 5%;
+    letter-spacing: 1px;
+    color: aliceblue;
+}
+.bill, .address{
+    width: 850px;
+    
+}
+
+.first{
+    position: relative;
+    left: 340px;
+}
+
+.middle{
+    position: relative;
+    left: 400px;
+}
+.last{
+    position: relative;
+    left: 365px;
+}
+.box2{
+    position: relative;
+    left: 410px;
+}
+.box5{
+    position: relative;
+    left: 440px;
+}
+.box7{
+    position: relative;
+    left: 468px;
+}
+.box1{
+    position: relative;
+    left: 50px;
+}
+.box3{
+    position: relative;
+    left: 17px;
+}
+.no{
+    position: relative;
+    left: 17px;
+    width: 2%
+}
+.address{
+    position: relative;
+    left: 19px;
+}
+.box4{
+    position: relative;
+    left: 111px;
+}
+.box6{
+    position: relative;
+    left: 74px;
+}
+.place{
+    position: relative;
+    right: 45px;
+}
+.res{
+    position: relative;
+    right: 60px;
+}
