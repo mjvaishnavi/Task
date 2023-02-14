@@ -1,0 +1,16 @@
+table, th, td{
+    border: 1px solid;
+    margin: auto;
+}
+table{
+    width: 600px;
+}
+.time-8{
+    background-color: rgba(189, 206, 37, 0.5);
+}
+.time-5{
+    background-color: rgba(182, 36, 196, 0.5);
+}
+.time-2{
+    background-color: rgba(48, 236, 95, 0.5);
+}
